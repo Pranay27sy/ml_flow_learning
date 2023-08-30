@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Pranay/Desktop/ml_flow_learning/mlruns/714409955858303758/e01bd5b88a3f4fdba533ff7a896790d5/artifacts
+end_time: 1693368626642
+entry_point_name: ''
+experiment_id: '714409955858303758'
+lifecycle_stage: active
+run_id: e01bd5b88a3f4fdba533ff7a896790d5
+run_name: able-stork-560
+run_uuid: e01bd5b88a3f4fdba533ff7a896790d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693368623450
+status: 3
+tags: []
+user_id: Pranay

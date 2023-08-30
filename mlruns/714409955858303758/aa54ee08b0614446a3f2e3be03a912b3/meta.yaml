@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Pranay/Desktop/ml_flow_learning/mlruns/714409955858303758/aa54ee08b0614446a3f2e3be03a912b3/artifacts
+end_time: 1693371456932
+entry_point_name: ''
+experiment_id: '714409955858303758'
+lifecycle_stage: active
+run_id: aa54ee08b0614446a3f2e3be03a912b3
+run_name: judicious-toad-931
+run_uuid: aa54ee08b0614446a3f2e3be03a912b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693371454316
+status: 3
+tags: []
+user_id: Pranay
